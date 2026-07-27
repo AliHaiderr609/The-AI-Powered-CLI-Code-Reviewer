@@ -1,0 +1,12 @@
+{
+  "model": "gpt-4o-mini",
+  "fail_on": "critical",
+  "max_chunk_lines": 400,
+  "output_format": "rich",
+  "ignore": [
+    "*.generated.py",
+    "dist/**"
+  ],
+  "include": [],
+  "custom_prompt": "Prefer minimal, incremental refactors. Call out any hardcoded secrets immediately."
+}

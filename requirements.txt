@@ -1,4 +1,6 @@
+# Editable install is preferred: pip install -e ".[dev]"
 openai>=1.40.0
 click>=8.1.0
 python-dotenv>=1.0.0
 rich>=13.7.0
+pytest>=8.0

@@ -4,8 +4,11 @@ __pycache__/
 .venv/
 venv/
 .env
+.reviewerrc
 *.egg-info/
 dist/
 build/
 .pytest_cache/
 .mypy_cache/
+review.md
+review.json
