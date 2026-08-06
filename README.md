@@ -81,6 +81,7 @@ ai-reviewer --ignore "*.generated.py" --format json --output review.json
 ai-reviewer --include "src/**/*.py" --output review.md --format markdown
 ```
 
+
 ### CI exit codes
 
 | Code | Meaning |
