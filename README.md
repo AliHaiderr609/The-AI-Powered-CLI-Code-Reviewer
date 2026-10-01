@@ -24,7 +24,6 @@ A terminal utility that reads your git diffs and uses the OpenAI API to suggest 
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -e ".[dev]"
-
 ```
 
 Copy the example env file and add your key:
