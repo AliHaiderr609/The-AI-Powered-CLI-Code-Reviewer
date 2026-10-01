@@ -43,7 +43,6 @@ Optional project config:
 copy .reviewerrc.example .reviewerrc
 
 ```
-
 ## Usage
 
 ```powershell
