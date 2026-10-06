@@ -41,7 +41,6 @@ Optional project config:
 
 ```powershell
 copy .reviewerrc.example .reviewerrc
-
 ```
 ## Usage
 
