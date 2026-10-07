@@ -30,6 +30,7 @@ Copy the example env file and add your key:
 
 ```powershell
 copy .env.example .env
+
 ```
 
 ```
