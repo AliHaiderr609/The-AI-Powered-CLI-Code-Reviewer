@@ -83,3 +83,11 @@ def test_config_from_dict_replace_ignore():
         {"ignore": ["only-this"], "replace_ignore": True}
     )
     assert cfg.ignore == ["only-this"]
+
+
+def test_normalize_severity_handles_unicode_whitespace_and_empty_values():
+    """Config values with Unicode padding or no value must remain safe levels."""
+    from ai_reviewer.severity import normalize_severity
+
+    assert normalize_severity("\u00a0warning\u00a0") == "MEDIUM"
+    assert normalize_severity("") == "INFO"
