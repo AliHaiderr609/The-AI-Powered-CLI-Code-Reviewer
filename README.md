@@ -32,6 +32,7 @@ Copy the example env file and add your key:
 copy .env.example .env
 
 ```
+
 ```
 OPENAI_API_KEY=sk-your-key-here
 OPENAI_MODEL=gpt-4o-mini
