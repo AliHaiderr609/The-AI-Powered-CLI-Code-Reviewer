@@ -14,6 +14,7 @@ A terminal utility that reads your git diffs and uses the OpenAI API to suggest 
 
 ## Requirements
 
+
 - Python 3.10+
 - Git
 - An [OpenAI API key](https://platform.openai.com/api-keys)
