@@ -51,7 +51,6 @@ ai-reviewer
 python reviewer.py
 python -m ai_reviewer
 ```
-
 By default the tool reviews unstaged changes, then falls back to staged changes if the working tree is clean.
 
 ### Options
