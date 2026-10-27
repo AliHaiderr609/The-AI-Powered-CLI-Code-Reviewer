@@ -26,7 +26,6 @@ python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -e ".[dev]"
 ```
-
 Copy the example env file and add your key:
 
 ```powershell
