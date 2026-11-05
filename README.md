@@ -21,6 +21,7 @@ A terminal utility that reads your git diffs and uses the OpenAI API to suggest 
 ## Setup
 
 ```
+
 powershell
 
 python -m venv .venv
