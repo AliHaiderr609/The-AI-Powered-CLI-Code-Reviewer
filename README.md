@@ -40,6 +40,7 @@ copy .env.example .env
 ```
 OPENAI_API_KEY=sk-your-key-here
 OPENAI_MODEL=gpt-4o-mini
+
 ```
 
 Optional project config:
