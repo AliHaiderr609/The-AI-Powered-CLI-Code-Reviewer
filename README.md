@@ -46,6 +46,7 @@ OPENAI_MODEL=gpt-4o-mini
 Optional project config:
 
 ```powershell
+
 copy .reviewerrc.example .reviewerrc
 
 ```
