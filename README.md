@@ -28,7 +28,6 @@ python -m venv .venv
 pip install -e ".[dev]"
 
 ```
-
 Copy the example env file and add your key:
 
 ```powershell
