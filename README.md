@@ -82,6 +82,7 @@ By default the tool reviews unstaged changes, then falls back to staged changes 
 ### Examples
 
 ```powershell
+
 ai-reviewer --staged
 ai-reviewer --base main --fail-on high
 ai-reviewer --ignore "*.generated.py" --format json --output review.json
