@@ -52,6 +52,7 @@ copy .reviewerrc.example .reviewerrc
 ## Usage
 
 ```powershell
+
 ai-reviewer
 # or
 python reviewer.py
