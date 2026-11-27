@@ -19,7 +19,6 @@ A terminal utility that reads your git diffs and uses the OpenAI API to suggest 
 - An [OpenAI API key](https://platform.openai.com/api-keys)
 
 ## Setup
-
 ```
 powershell
 
